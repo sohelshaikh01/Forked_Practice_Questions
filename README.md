@@ -1,4 +1,4 @@
-# neogcamp-interview-questions
+# Neogcamp-Interview-Questions
 
 Codes of all Sample Interview Questions for neogCamp levelOne.
 
